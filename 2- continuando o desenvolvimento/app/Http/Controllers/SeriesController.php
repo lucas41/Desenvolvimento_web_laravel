@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\serie;
+use App\Models\serie;
 use Illuminate\Http\Request;
 use App\Http\Requests\SeriesFormRequest;
 
